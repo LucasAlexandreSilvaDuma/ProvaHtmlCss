@@ -1,0 +1,96 @@
+body{background-image:url(../imagens/bg.png); max-width: 2000px; min-width: 600px; margin: 0px; padding: 0px; background-repeat: no-repeat; background-attachment: fixed; background-position: center;}
+
+.imagemcima{
+    background-image: url(../imagens/hulk.jpg);
+    height: 300;
+    background-position: left center ;
+    width: 800; margin:0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    list-style-type: none;
+}
+
+.links li{
+    list-style-type: none;
+    margin-top: -25;
+}
+
+.links a{
+ text-decoration: none;
+    color: black;
+    list-style-type: none;
+    padding: 2;
+    color: green;
+}
+
+header{
+    width:750px; margin: 0 auto;
+    background-color: white;
+    padding: 25px;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-align: justify;
+    border-top: 1px;
+    text-decoration: none;
+    text-align: center;
+    text-decoration-style:none;
+}
+
+.conteudo-pagina{
+    width: 750px; margin: 0 auto;
+    background-color: white;
+    padding: 25px;
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-size: 12;
+}
+
+.conteudo-pagina p{
+    font-size: 12;
+    text-align: justify;
+    letter-spacing: 1.5;
+}
+
+.conteudo-pagina h1{
+    color: green;
+    font-size: 40;
+}
+
+.conteudo-pagina h2{
+    color: green;
+}
+
+.conteudo-pagina h3{
+    color:limegreen
+}
+
+img{
+    width: 40%;
+    height: 40%;
+    margin: 0 auto;
+    margin-left: 30%;
+}
+
+.conteudo-pagina figcaption{
+    color: limegreen;
+    text-align: center;
+    margin-top: 3;
+}
+
+a:link{
+    color:green;
+}
+
+.mn:hover{
+    color:red;
+    text-decoration: underline;
+}
+
+.mn:visited{
+     text-decoration: underline;
+    color: blue;
+}
+
+.wikipedia a{
+    text-decoration: none;
+    color: green;
+}
